@@ -1,0 +1,11 @@
+{
+  "name": "Custom Zero #2",
+  "description": "Custom Zero Series 1 can only be found in special events! Congratulations!",
+  "image": "ipfs://bafybeigasdu3kjfx6nodm3gpajskqfkxc3ez37wqinlt452odtnscyki3e/2.png",
+
+  "attributes":
+  [{"trait_type": "Hexagon", "value": "White"},
+  {"trait_type": "Circle", "value": "White"},
+  {"trait_type": "Zero", "value": "White"},
+  {"trait_type": "Catchphrase", "value": "Hide and Seek"}]
+}

@@ -1,0 +1,12 @@
+{ "name": "Custom Zero #8",
+  "description": "Custom Zero Series 1 can only be found in special events! Congratulations!",
+  "image": "ipfs://bafybeifisjbai3xeppgpcw5dahkopsnsa35iqogfzcywgylpkqlpdsw4xa/8.png",
+  
+  "attributes":
+  [{"trait_type": "Background", "value": "Green Stars"},
+  {"trait_type": "Circle", "value": "Green"},
+  {"trait_type": "Zero", "value": "Green"},
+  {"trait_type": "Eyes", "value": "Black"},
+  {"trait_type": "Catchphrase", "value": "Enter Zero"}]
+
+}

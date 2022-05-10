@@ -1,0 +1,13 @@
+{ "name": "Custom Zero #11",
+  "description": "Custom Zero Series 1 can only be found in special events! Congratulations!",
+  "image": "ipfs://bafybeifisjbai3xeppgpcw5dahkopsnsa35iqogfzcywgylpkqlpdsw4xa/11.png",
+  
+  "attributes":
+  [{"trait_type": "Background", "value": "Space"},
+   {"trait_type": "Suit", "value": "Bulbs"},
+  {"trait_type": "Circle", "value": "Gray"},
+  {"trait_type": "Zero", "value": "Gray"},
+  {"trait_type": "Eyes", "value": "Black"},
+  {"trait_type": "Catchphrase", "value": "Flowers are Best"}]
+
+}

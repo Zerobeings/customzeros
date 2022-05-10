@@ -1,0 +1,13 @@
+{ "name": "Custom Zero #16",
+  "description": "Custom Zero Series 1 can only be found in special events! Congratulations!",
+  "image": "ipfs://bafybeifisjbai3xeppgpcw5dahkopsnsa35iqogfzcywgylpkqlpdsw4xa/16.png",
+  
+  "attributes":
+  [{"trait_type": "Background", "value": "Star Space"},
+  {"trait_type": "Stripes", "value": "Together"},
+  {"trait_type": "Circle", "value": "Faded Blue"},
+  {"trait_type": "Zero", "value": "Faded Blue"},
+  {"trait_type": "Eyes", "value": "Laser 3D"},
+  {"trait_type": "Catchphrase", "value": "Retro Cool"}]
+
+}
