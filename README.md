@@ -1,5 +1,7 @@
 # 2022 Custom Zeros
 
+cc0 collection | Custom Zero NFT assets can be used by anyone without permission.
+
 [Twitter](https://twitter.com/Zero_beings)
 
 [IPFS Images](https://ipfs.io/ipfs/bafybeigasdu3kjfx6nodm3gpajskqfkxc3ez37wqinlt452odtnscyki3e/1.png)
